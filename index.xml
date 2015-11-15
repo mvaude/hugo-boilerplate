@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blog Boilerplate</title>
+    <link>http://mvaude.github.io/hugo-boilerplate/</link>
+    <description>Recent content on Hugo Blog Boilerplate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 15 Nov 2015 22:45:34 +0100</lastBuildDate>
+    <atom:link href="http://mvaude.github.io/hugo-boilerplate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>newest</title>
+      <link>http://mvaude.github.io/hugo-boilerplate/post/newest/</link>
+      <pubDate>Sun, 15 Nov 2015 22:45:34 +0100</pubDate>
+      
+      <guid>http://mvaude.github.io/hugo-boilerplate/post/newest/</guid>
+      <description>
+
+&lt;h2 id=&#34;newest-articles:912493bb798d2cf24137bef8b4adb6f6&#34;&gt;Newest articles&lt;/h2&gt;
+
+&lt;p&gt;It is working !!!!!!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://mvaude.github.io/hugo-boilerplate/post/first/</link>
+      <pubDate>Sun, 15 Nov 2015 19:33:04 +0100</pubDate>
+      
+      <guid>http://mvaude.github.io/hugo-boilerplate/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://mvaude.github.io/hugo-boilerplate/about/</link>
+      <pubDate>Sun, 15 Nov 2015 19:32:14 +0100</pubDate>
+      
+      <guid>http://mvaude.github.io/hugo-boilerplate/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A Headline&lt;/h2&gt;
+
+&lt;p&gt;Some Content&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
