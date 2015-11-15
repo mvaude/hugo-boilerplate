@@ -1,3 +1,36 @@
-baseurl = "https://mvaude.github.io/hugo-boilerplate"
+baseurl = "http://mvaude.github.io/hugo-boilerplate"
+title = "Hugo Blog Boilerplate"
+canonifyurls = true
+paginate = 10
+theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
-title = "My New Hugo Site"
+copyright = "Code released under the Apache 2.0 license."
+
+[author]
+  name = "Maxime Vaude"
+    
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "Your site description"
+  Author = "Maxime Vaude"
+  email = "maxime.vaude@gmail.com"
+  Ganalytics = "XX-00000000-0"
+              
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/wefirm"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/mvaude"
+[[params.social]]
+  title = "facebook"
+  url = "https://www.facebook.com/FACEBOOKHANDLE"
+                                      
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Archives"
+  url = "/post/"
+  weight = -180
