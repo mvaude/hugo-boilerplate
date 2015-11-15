@@ -22,6 +22,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: "0.14"
+        theme: startbootstrap-clean-blog
         flags: --buildDrafts=true
 
 deploy:
