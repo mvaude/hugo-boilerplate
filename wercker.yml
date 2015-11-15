@@ -29,7 +29,7 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - likevivier/gh-pages@0.2.1:
+    - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
         domain: mvaude.github.io/hugo-boileplate
         basedir: public 
